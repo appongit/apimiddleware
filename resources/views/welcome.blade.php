@@ -83,9 +83,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://simplesign.io/api-reference-v3/">API Documentation</a>
+                    <a target="__new"  href="https://simplesign.io/api-reference-v3/">API Documentation</a>
                     
-                    <a href="#">GitHub</a>
                 </div>
             </div>
         </div>
